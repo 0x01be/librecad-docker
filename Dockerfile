@@ -12,6 +12,7 @@ RUN apk add --no-cache --virtual build-dependencies \
     pango-dev \
     lua5.3-dev \
     lua5.3-libs \
+    expat-dev \
     eigen-dev \
     gtest \
     qt5-qtbase-dev
